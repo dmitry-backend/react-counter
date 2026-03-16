@@ -2,6 +2,7 @@
 A minimal React counter application built with Vite.
 This project demonstrates the basic structure of a React application, including component rendering, state management using React hooks, and running the application through a local development server.
 
+![React Counter](screenshot.jpg)
 
 ## Overview
 This project implements a simple interactive counter with three controls:
@@ -33,6 +34,7 @@ react-counter
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
+├── screenshot.jpg
 └── src/
     ├── index.jsx
     └── styles.css
