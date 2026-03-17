@@ -14,11 +14,12 @@ This project implements a simple interactive counter with three controls:
 The interface is styled using plain CSS and centered on the page. The counter logic is implemented using the `useState` hook from React.
 
 ## Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 - React
 - React DOM
 - Vite
-- JavaScript (ES Modules)
-- CSS
 
 ## Features
 - Functional React component
