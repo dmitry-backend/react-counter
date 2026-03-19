@@ -30,7 +30,7 @@ The interface is styled using plain CSS and centered on the page. The counter lo
 
 ## Project Structure
 ```text
-react-counter
+react-counter/
 ├── index.html
 ├── package.json
 ├── package-lock.json
